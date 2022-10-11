@@ -1,0 +1,20 @@
+[
+	{
+		"title": "The Very Best of the Doors 2CD",
+		"price": 13.07,
+		"thumbnail": "https://m.media-amazon.com/images/I/91hrbype4aL._SY355_.jpg",
+		"id": 1
+	},
+	{
+		"title": "Blood Sugar Sex Magik",
+		"price": 9.99,
+		"thumbnail": "https://m.media-amazon.com/images/I/81hS2wgxbhL._SY355_.jpg",
+		"id": 2
+	},
+	{
+		"title": "Pearl Jam Completely Unplugged Limited Edition",
+		"price": 49.77,
+		"thumbnail": "https://m.media-amazon.com/images/I/81NDZb-JShL._SY355_.jpg",
+		"id": 3
+	}
+]
